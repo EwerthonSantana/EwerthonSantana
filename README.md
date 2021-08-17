@@ -1,4 +1,4 @@
-## Olá! Eu sou Ewerthon Santana 
+## Olá! Eu sou Ewerthon Santana 🤠	👍	
  <div>
   <a href="https://github.com/EwerthonSantana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwerthonSantana&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
