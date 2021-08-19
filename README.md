@@ -20,7 +20,7 @@
  <a href="https://www.linkedin.com/in/ewerthon-santana-93b2a5177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" class="1"></a>
  
  style{ .1 {
- margin-rigth: 150px;}
+ padding-rigth: 10px;}
  }
  
  ![Snake animation](https://github.com/EwerthonSantana/EwerthonSantana/blob/output/github-contribution-grid-snake.svg)
