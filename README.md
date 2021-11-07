@@ -6,7 +6,7 @@
 </div>
 
 
-  <h2>Tecnologias que estou estudando ou tenho interesse</h2>
+  Tecnologias que estudo
 
  
  <div style="display: inline_block"></br>
