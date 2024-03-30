@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 contact me with the follow social medias above: ⤵️
+  💌 contact me with the follow social medias below: ⤵️
 </p>
 
 <p align="left">
