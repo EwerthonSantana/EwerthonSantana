@@ -1,15 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Fullstack developer and computer science graduate with an insatiable curiosity and a thirst for knowledge. I love delving into new technologies, and my GitHub repository is a testament to my relentless pursuit of learning. It showcases projects and studies that reflect my dedication to the realm of computing. Join me in exploring the boundaries of innovation and technology through this space dedicated to my journey of discovery and continuous development.
+👋 Hi, I'm Ewerthon!
+🎓 Bachelor in Computer Science | 💻 Full-Stack Developer with 2+ years of experience
+
+🌟 Passionate about building scalable applications and learning new technologies.
+📘 I enjoy improving my skills and sharing knowledge with the developer community.
+🚀 Always eager to take on new challenges and contribute to exciting projects!</p>
+
+<p align="left">
+🛠️ Tech Stack: C# | Java | PHP | Node.js | Angular 2+ | React | Vue.js | Devop's & Frameworks
 </p>
 
 <p align="left">
-  🦄 Languages: C# | JavaScript | TypeScript | NodeJs | PHP
-</p>
-
-<p align="left">
-  💼 Ferramentas: working with fullstack development, focusing in web stacks
+  💼 Ferramentas: Always open for new oportunites and projects, currently searching for remote flex job's oportunity!
 </p>
 
 <p align="left">
